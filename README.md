@@ -18,7 +18,7 @@ C dosyasında ilk comment line ile belirtilen kısım soru olmaktadır.
 
 # Notes
 Temel projeler olan Shell00, C00 ve C01 için notlar.
-Projeleri yaparken aldığım notları repoya eklemiş bulunmaktayım.
+Projeleri yaparken aldığım notları sizin için de faydalı olabileceğini düşündüğüm için repoya eklemiş bulunmaktayım.
 Çalışırken sadece notlara bağlı kalmamanızı, araştırarak kullanmanızı tavsiye ediyorum.
 
 # Rush Projects
