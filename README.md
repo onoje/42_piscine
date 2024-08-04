@@ -1,8 +1,8 @@
 # Piscine - Temmuz 2024
-1 Temmuz - 26 Temmuz (42 İstanbul)
-Bir ay boyunca ecole 42'de yaptığım projelerimi sizinle paylaşmaktan mutluluk duyuyorum.
-Hatalı ya da yanlış bir şey ile karşılaşırsanız issue açmaktan çekinmeyin.
-Çalışmalarımı beğendiyseniz veya faydalı bulduysanız yıldızlamayı unutmayın!
+* 1 Temmuz - 26 Temmuz (42 İstanbul)
+* Bir ay boyunca ecole 42'de yaptığım projelerimi sizinle paylaşmaktan mutluluk duyuyorum.
+* Hatalı ya da yanlış bir şey ile karşılaşırsanız issue açmaktan çekinmeyin.
+* Çalışmalarımı beğendiyseniz veya faydalı bulduysanız yıldızlamayı unutmayın!
 
 # C Projects (C00 - C07)
 C00 - C07 Arasındaki projeler başarı ile tamamlanmış projelerdir.
