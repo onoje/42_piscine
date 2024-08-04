@@ -1,5 +1,8 @@
-# 42_piscine
-42 Piscine / 42 Havuz / 42 İstanbul / 42 Kocaeli / Ecole 42
+# Piscine - Temmuz 2024
+1 Temmuz - 26 Temmuz (42 İstanbul)
+Bir ay boyunca ecole 42'de yaptığım projelerimi sizinle paylaşmaktan mutluluk duyuyorum.
+Hatalı ya da yanlış bir şey ile karşılaşırsanız issue açmaktan çekinmeyin.
+Çalışmalarımı beğendiyseniz veya faydalı bulduysanız yıldızlamayı unutmayın!
 
 # C Projects (C00 - C07)
 C00 - C07 Arasındaki projeler başarı ile tamamlanmış projelerdir.
@@ -33,5 +36,8 @@ Bu projeler terminal üzerinden yapılmaktadır.
 Temel projeler olup yapılması önceliklendirilebilir.
 Subject dosyaları bulunmaktadır.
 
-
-
+# Tips (İpuçları)
+* 42 Header Kurulumu: Github üzerinden header kurulumunu kolaylıkla bulabilirsiniz veya vscode üzerinden indirebilirsiniz.
+* Moulinette: Moulinette projelerinizi pushladıktan ve evaluationlarını yaptıktan sonra projenizi kontrol eden yapay zekadır. Mini Moulinette projenizi pushlamadan önce test edebileceğiniz bir programdır (bkz. Mini Moulinette Github).
+* Norminette: C dilinde yazım kuralları için denetleme yapar. Projelerinizi pushlamadan önce normlarını kontrol ettiğinizden emin olun!
+* Python Tutor: Python Tutor yazdığınız kod betiğinin çalışma mantığını ve sırasını adım adım anlatarak açıklayan bir web sitesidir. Python Tutor kullanılarak pointerlar döngüler ve recursive fonksiyonların mantığı daha kolay bir şekilde anlaşılabilir.
