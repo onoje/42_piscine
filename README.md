@@ -16,6 +16,11 @@ Başlangıç ve orta seviye soruları içerir.
 C dosyasında ilk comment line ile belirtilen kısım soru olmaktadır.
 İkinci comment line ile belirtilen kısım ise fonksiyonu çalıştırmak için kullanılan main betiğidir.
 
+# Notes
+Temel projeler olan Shell00, C00 ve C01 için notlar.
+Projeleri yaparken aldığım notları repoya eklemiş bulunmaktayım.
+Çalışırken sadece notlara bağlı kalmamanızı, araştırarak kullanmanızı tavsiye ediyorum.
+
 # Rush Projects
 Rush projeleri grup olarak yapılan projelerdir.
 Paylaştığım klasörde ilk rush projesi bulunmaktadır.
